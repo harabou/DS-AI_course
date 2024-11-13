@@ -18,6 +18,11 @@ http://shiga-bousai.jp/dmap/gis_download/index
 
 ### 市町村役場等及び公的集会施設　＊コード参照
 geospatial.jp/ckan/dataset/ksj-p05-25
+ 1:本庁
+ 2:支所
+ 3:その他行政サービス
+ 4:公民館
+ 5:集会施設
 
-###（健康情報）滋賀県庁：健康度栗支援資料集
+### 健康情報: 滋賀県庁：健康度栗支援資料集
 https://www.pref.shiga.lg.jp/eiseikagaku/toukei/kenkou/
