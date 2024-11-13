@@ -18,6 +18,7 @@ http://shiga-bousai.jp/dmap/gis_download/index
 
 ### 市町村役場等及び公的集会施設　＊コード参照
 geospatial.jp/ckan/dataset/ksj-p05-25
+
  1:本庁
  2:支所
  3:その他行政サービス
