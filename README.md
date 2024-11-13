@@ -10,3 +10,14 @@ https://g-cham.carrd.co/#scrollpoint4
 ###  PLATEAU(国土交通省)　まちづくりDX
 https://www.mlit.go.jp/plateau/start-guide/
 
+### 滋賀県オープンデータカタログ
+https://www.pref.shiga.lg.jp/ippan/kurashi/ict/300004.html
+
+### 滋賀県防災情報マップGISデータ
+http://shiga-bousai.jp/dmap/gis_download/index
+
+### 市町村役場等及び公的集会施設　＊コード参照
+geospatial.jp/ckan/dataset/ksj-p05-25
+
+###（健康情報）滋賀県庁：健康度栗支援資料集
+https://www.pref.shiga.lg.jp/eiseikagaku/toukei/kenkou/
