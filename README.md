@@ -9,6 +9,8 @@ https://g-cham.carrd.co/#scrollpoint4
 
 ###  PLATEAU(国土交通省)　まちづくりDX
 https://www.mlit.go.jp/plateau/start-guide/
+###View 
+https://plateauview.mlit.go.jp/
 
 ### 滋賀県オープンデータカタログ
 https://www.pref.shiga.lg.jp/ippan/kurashi/ict/300004.html
