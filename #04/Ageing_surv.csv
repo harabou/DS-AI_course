@@ -1,4 +1,4 @@
-ID,Drug,Year of death,Year of last Contact,follow-up,censor
+ID,Drug,Year of death,Year of last Contact,followup,censor
 1,0,,24,24,0
 2,0,3,,3,1
 3,0,,11,11,0
